@@ -1,1 +1,18 @@
-
+{
+    "id": no,
+    "name": "no",
+    "author": "no",
+    "creators": ["no"],
+    "verifier": "no",
+    "verification": "",
+    "percentToQualify": 70,
+    "password": "Password",
+    "records": [
+        {
+            "user": "None",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
