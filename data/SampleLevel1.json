@@ -8,11 +8,6 @@
     "percentToQualify": 70,
     "password": "Password",
     "records": [
-        {
-            "user": "Join GD Singing",
-            "link": "https://discord.gg/S4nSC5qUBc",
-            "percent": 100,
-            "hz": 360
-        }
+       
     ]
 }
