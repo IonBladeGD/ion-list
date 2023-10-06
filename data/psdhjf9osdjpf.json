@@ -8,5 +8,11 @@
     "percentToQualify": 68,
     "password": "Password",
     "records": [
+     {
+            "user": "IonBladeGD",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
