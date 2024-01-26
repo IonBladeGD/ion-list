@@ -1,18 +1,13 @@
 {
-    "id": 94161168,
-    "name": "Dull Blade",
-    "author": "WhiteFencePost",
-    "creators": ["WhiteFencePost"],
-    "verifier": "WhiteFencePost",
-    "verification": "https://youtu.be/rd96tOVadtw?feature=shared",
-    "percentToQualify": 75,
+    "id": 10155484,
+    "name": "8o Circles",
+    "author": "10155484",
+    "creators": ["10155484"],
+    "verifier": "10155484",
+    "verification": "",
+    "percentToQualify": 10155484,
     "password": "Password",
     "records": [
-     {
-            "user": "IonBladeGD",
-            "link": "https://youtu.be/138-uenXhis",
-            "percent": 100,
-            "hz": 360
-        }
+    
     ]
 }
